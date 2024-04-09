@@ -30,3 +30,7 @@ Procesador AMD Ryzen 5 5600x a 4.2GHZ, 48GB de ram DDR4 a 3200 MHZ, GPU Nvidia R
     - magick
 - Octave
     - Módulo Image
+
+## Reconocimientos
+
+Para la realizacion del caso 2, se hizo uso de de la fotografia “Samuel_Zeller_Tokyo_DSCF3800” (Imagen tomando como objeto principal a algunos edificios en un entorno nocturno),  perteneciente a Samuel Zeller, la cual puede ser encontrada en la siguiente URL: https://www.samuelzeller.ch/journal/fujifilm-gfx100-sample-images-jpeg-raw-files. 
