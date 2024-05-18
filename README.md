@@ -1,4 +1,4 @@
-# Código Publicación 
+# Comparación de rendimiento entre Python, R y Octave en escenarios de cómputo demandantes final
 
 ## Descripción
 
